@@ -1,1 +1,1 @@
-select * from 
+select Top 100 * from AIRS_MainA
